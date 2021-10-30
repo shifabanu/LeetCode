@@ -176,6 +176,7 @@ bool edit_distance(string s1, string s2)
         }
       }
     }
+ return false;
 }
 
 int main()
